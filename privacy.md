@@ -1,0 +1,3 @@
+[Nathan's PFPs] Privacy Policy
+Effective date: [11/19/2026]
+The bot stores Discord server and channel IDs, administrator-configured search terms and posting schedules, and upload history, including image fingerprints and Discord message IDs. It uses these records to send scheduled posts, show posting status, and avoid duplicates. The bot sends configured search terms to Pinterest and uses the returned Pin IDs in memory to match entries in an operator-maintained collection. Eligible images are uploaded to the configured Discord channel. The bot runs on PebbleHost, where its configuration and posting history are stored. For privacy questions or requests about stored data, contact [fourr1fourr@gmail.com].
